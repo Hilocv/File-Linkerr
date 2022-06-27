@@ -47,7 +47,7 @@ class BUTTON(object):
         InlineKeyboardButton('Help', callback_data='Ayuda'),
         InlineKeyboardButton('About', callback_data='Info')
         ],        
-        [InlineKeyboardButton("Updates Channel", url='https://t.me/FreeXDownloader')]
+        [InlineKeyboardButton("Updates Channel", url='https://t.me/bot_lewisDev')]
         ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
