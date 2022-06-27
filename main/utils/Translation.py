@@ -6,9 +6,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Language(object):
     class en(object):
         START_TEXT = """
-**👋 Hᴇʏ, {}**\n
-<i>I'm Telegram Files Streaming Bot As Well Direct Links Generator</i>\n
-<i>Click On Help To Get More Information</i>\n
+**👋 Hola. Bienvenid@ {}**\n
+<i>Soy un bot generador de enlaces directos de Descarga.</i>\n
+<i>Toca Help para más información.</i>\n
 <b><i><u>Warning 🚸</u></i></b>\n
 <b>🔞 Pron Contents Leads To Permanenet Ban You.</b>"""
 
@@ -21,7 +21,7 @@ class Language(object):
 
 <b><i><u>Warning 🚸</u></i></b>
 <b>🔞 Pron Contents Leads To Permanenet Ban You.</b></b>\n
-<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/TechZBots_Support'>[ Click Here ]</a></b>"""
+<i>Reportar bug</i> <b>: <a href='https://t.me/FreeXDownloader'>[ Click Here ]</a></b>"""
 
         ABOUT_TEXT = """
 <b>⚜ My Name : TG Direct Link Generator</b>\n
