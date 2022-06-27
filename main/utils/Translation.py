@@ -18,7 +18,7 @@ class Language(object):
 <i>- Luego te proporcionare un link directo del archivo  !</i>
 
         ABOUT_TEXT = """
-<b>⚜ My Name : File Yo Links Pro Generator</b>\n
+<b>⚜ My Name : TG Direct Link Generator</b>\n
 <b>⚜ Username : @FileToLinksPro_bot</b>\n
 <b>🔸Version : 2.0</b>\n
 <b>🔹Last Updated : [ 27-Jun-22 ]</b>
