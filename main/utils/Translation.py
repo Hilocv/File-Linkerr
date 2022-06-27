@@ -44,17 +44,16 @@ class Language(object):
 class BUTTON(object):
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Help', callback_data='help'),
-        InlineKeyboardButton('About', callback_data='about')
+        InlineKeyboardButton('Help', callback_data='Ayuda'),
+        InlineKeyboardButton('About', callback_data='Info')
         ],        
-        [InlineKeyboardButton("Updates Channel", url='https://t.me/TechZBots'),
-        InlineKeyboardButton("Repo", url='https://github.com/TechShreyash/TG-Direct-Link-Generator')]
+        [InlineKeyboardButton("Updates Channel", url='https://t.me/FreeXDownloader')]
         ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Home', callback_data='home'),
-        InlineKeyboardButton('About', callback_data='about')
+        InlineKeyboardButton('Inicio', callback_data='home'),
+        InlineKeyboardButton('Info', callback_data='about')
         ],
         [
         InlineKeyboardButton('Close', callback_data='close'),
